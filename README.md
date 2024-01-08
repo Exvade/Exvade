@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deftvalian2411@gmail.com**
 
-- ⚡ Fun fact **Fast Learner**
+- ⚡ Fun fact **'Fast Learner'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
