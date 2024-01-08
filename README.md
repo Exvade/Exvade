@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deft Valian Exanova</h1>
 <h3 align="center">a passionate student majoring in Information Systems. Hailing from Indonesia, I find my true calling in the realm of frontend development. 🚀 Armed with a fervor for crafting intuitive and visually appealing user interfaces, I embark on a journey to merge creativity with technology. Excited to contribute and collaborate in the vast world of coding. Let's build something awesome together! 💻✨</h3>
+<img align="right" lat="Coding Gif" width="400px" src="[https://dribbble.com/shots/3625204-Programmer-s-Life](https://cdn.dribbble.com/users/600557/screenshots/3625204/media/fcab62316b56f66ea4a4268fae3335a4.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exvade&label=Profile%20views&color=0e75b6&style=flat" alt="exvade" /> </p>
 
