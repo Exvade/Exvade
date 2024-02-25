@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Enhancing my skills in frontend development**
 
-- 🌱 I’m currently learning **Java GUI**
+- 🌱 I’m currently learning **FrontEnd Web**
 
 - 👯 I’m looking to collaborate on **Exciting frontend projects**
 
