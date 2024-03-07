@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Enhancing my skills in frontend development**
 
-- 🌱 I’m currently learning **Fullstack MEVN**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👯 I’m looking to collaborate on **Exciting frontend projects**
 
