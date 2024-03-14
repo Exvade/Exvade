@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=exvade&show_icons=true&locale=en" alt="exvade" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=exvade&" alt="exvade" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=exvade)](https://git.io/streak-stats)
