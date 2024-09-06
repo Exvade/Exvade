@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **Frontend developer intern at Core Initiative**
 
-- 🌱 I’m currently learning **JAVAFX**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👯 I’m looking to collaborate on **Exciting frontend projects**
 
