@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=exvade&label=Profile%20views&color=0e75b6&style=flat" alt="exvade" /> </p>
 
-- 🔭 I’m currently working as a **Frontend developer intern at Core Initiative**
+- 🔭 I’m currently working on **Enhancing my skills in Frontend development**
 
 - 🌱 I’m currently learning **TypeScript**
 
