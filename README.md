@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on **Exciting frontend projects**
 
 - 🤝 I’m looking for help with **Seeking guidance and insights from experienced developers in the frontend community.**
-- 👨‍💻 All of my projects are available at [https://portfolioexv.netlify.app/](https://portfolioexv.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://exvade.vercel.app](https://exvade.vercel.app)
 
 - 📫 How to reach me **deftvalian2411@gmail.com**
 
